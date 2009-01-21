@@ -1,4 +1,4 @@
-# django url_utils #
+# django url\_utils #
 is a django application with some url helper functionality.
 
 Currently it provides a template tag to generate a project specific absolute url/permalink.
